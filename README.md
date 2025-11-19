@@ -48,6 +48,10 @@ Acesse no navegador:
 
 http://localhost:8080
 
+Para acessar o Render:
+
+https://documentacao-2.onrender.com
+
 
 Para acessar a documentação do Swagger:
 
